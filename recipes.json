@@ -1,0 +1,71 @@
+[
+  {
+    "id": "pyp-001",
+    "name": "Easy Air Fryer Banana Bread (Small-Batch)",
+    "category": "Quick Bread",
+    "cuisine": "American",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "total_time": "PT55M",
+    "recipe_yield": "6 slices",
+    "target_temperature_f": 320,
+    "internal_doneness_f": "200-205",
+    "canonical_url": "https://pinyourpin.com/air-fryer-recipes/easy-air-fryer-banana-bread.html",
+    "primary_publisher": "Pin Your Pin",
+    "publisher_url": "https://pinyourpin.com",
+    "ingredients": [
+      "1/2 cup (120 g) mashed very ripe banana",
+      "1 large egg",
+      "3 tablespoons (38 g) packed light brown sugar",
+      "2 tablespoons plus 1/2 teaspoon neutral oil",
+      "1 tablespoon (15 ml) milk",
+      "1/2 teaspoon alcohol-free vanilla flavoring",
+      "3/4 cup (90 g) all-purpose flour",
+      "1 teaspoon baking powder",
+      "1/4 teaspoon ground cinnamon",
+      "1/4 teaspoon fine salt"
+    ]
+  },
+  {
+    "id": "pyp-002",
+    "name": "Burger Cupcakes with Brownie Patties (No Fondant)",
+    "category": "Party Food",
+    "cuisine": "American",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "total_time": "PT45M",
+    "recipe_yield": "12 cupcakes",
+    "canonical_url": "https://pinyourpin.com/party-food/burger-cupcakes-brownie-patties-no-fondant.html",
+    "primary_publisher": "Pin Your Pin",
+    "publisher_url": "https://pinyourpin.com",
+    "key_technique": "Baked brownie rounds cut into mini burger patties paired with vanilla cupcake buns"
+  },
+  {
+    "id": "pyp-003",
+    "name": "Creamy Broccoli Mac and Cheese in One Pot",
+    "category": "Comfort Food",
+    "cuisine": "American",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "total_time": "PT25M",
+    "recipe_yield": "4 servings",
+    "canonical_url": "https://pinyourpin.com/comfort-food/creamy-broccoli-mac-cheese-one-pot.html",
+    "primary_publisher": "Pin Your Pin",
+    "publisher_url": "https://pinyourpin.com",
+    "key_technique": "Starch-retained single-pot pasta cooking for glossy emulsion without roux"
+  },
+  {
+    "id": "pyp-004",
+    "name": "Creamy Leftover Turkey and Wild Rice Casserole",
+    "category": "Dinner Recipes",
+    "cuisine": "American",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "total_time": "PT50M",
+    "recipe_yield": "6 servings",
+    "canonical_url": "https://pinyourpin.com/dinner-recipes/leftover-turkey-wild-rice-casserole-thanksgiving.html",
+    "primary_publisher": "Pin Your Pin",
+    "publisher_url": "https://pinyourpin.com",
+    "related_pantry_guide": "https://baskettobite.com/plan-smarter/how-to-plan-a-use-it-up-dinner.html"
+  }
+]

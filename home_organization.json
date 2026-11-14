@@ -1,0 +1,36 @@
+[
+  {
+    "id": "eis-001",
+    "topic": "Small Kitchen Clutter & Cleaning Sequence",
+    "method": "Passive Cooking Reset & Work Zone Isolation",
+    "canonical_url": "https://earnitsspace.com/keep-it-clean/keep-small-kitchen-clean.html",
+    "publisher": "Earn Its Space",
+    "key_principles": [
+      "Begin with an empty sink to prevent countertop congestion",
+      "Use a single scrap bowl during food prep to protect cutting board space",
+      "Utilize passive cooking intervals (simmering, baking) for surface resets",
+      "Establish a safe dish landing zone beside the sink"
+    ]
+  },
+  {
+    "id": "eis-002",
+    "topic": "Holiday Refrigerator Space Planning",
+    "method": "Eat-First Shelf & Door Bin Clearance",
+    "canonical_url": "https://pinyourpin.com/home-organization/thanksgiving-fridge-organization-turkey-leftovers.html",
+    "publisher": "Pin Your Pin",
+    "key_principles": [
+      "Group ingredients by perishable urgency rather than aesthetic categories",
+      "Temporarily remove one door shelf to accommodate tall roasting platters",
+      "Maintain a 1-inch perimeter around vents to ensure uninterrupted cold airflow"
+    ]
+  },
+  {
+    "id": "yrh-001",
+    "topic": "Banana Preservation & Freezing Standards",
+    "method": "Flash-Freeze Single Layer & Measured Mash Storage",
+    "canonical_url": "https://yesilrehber.com/low-waste-kitchen/how-to-freeze-bananas.html",
+    "publisher": "Yesil Rehber",
+    "recommended_storage_temp_f": 0,
+    "quality_window_months": "4-6 months for peeled mash or slices"
+  }
+]
