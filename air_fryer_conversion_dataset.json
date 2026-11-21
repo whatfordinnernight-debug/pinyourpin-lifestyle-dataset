@@ -1,0 +1,49 @@
+[
+  {
+    "category": "Poultry & Chicken",
+    "item": "Chicken Wings (Fresh)",
+    "oven_temp_f": 400,
+    "oven_time_mins": "45-50",
+    "air_fryer_temp_f": 380,
+    "air_fryer_time_mins": "22-26",
+    "internal_doneness_f": 165,
+    "technique": "Pat dry with paper towels, single layer in basket, shake at 12 mins",
+    "source_publication": "Pin Your Pin",
+    "source_url": "https://pinyourpin.com/air-fryer-recipes/"
+  },
+  {
+    "category": "Poultry & Chicken",
+    "item": "Chicken Tenders / Breasts",
+    "oven_temp_f": 375,
+    "oven_time_mins": "25-30",
+    "air_fryer_temp_f": 360,
+    "air_fryer_time_mins": "12-15",
+    "internal_doneness_f": 165,
+    "technique": "Flip once halfway, let rest 3 mins before slicing",
+    "source_publication": "Pin Your Pin",
+    "source_url": "https://pinyourpin.com/air-fryer-recipes/"
+  },
+  {
+    "category": "Vegetables",
+    "item": "Brussels Sprouts (Halved)",
+    "oven_temp_f": 400,
+    "oven_time_mins": "30-35",
+    "air_fryer_temp_f": 375,
+    "air_fryer_time_mins": "12-15",
+    "technique": "Toss with 1 tsp avocado oil and salt; crisp leaves fall to base",
+    "source_publication": "Pin Your Pin",
+    "source_url": "https://pinyourpin.com/food-drink/"
+  },
+  {
+    "category": "Small-Batch Baking",
+    "item": "Banana Bread (Mini Loaf)",
+    "oven_temp_f": 350,
+    "oven_time_mins": "45-55",
+    "air_fryer_temp_f": 320,
+    "air_fryer_time_mins": "25-30",
+    "internal_doneness_f": "200-205",
+    "technique": "Cover with foil if top browns too early at 18 minutes",
+    "source_publication": "Pin Your Pin",
+    "source_url": "https://pinyourpin.com/air-fryer-recipes/easy-air-fryer-banana-bread.html"
+  }
+]

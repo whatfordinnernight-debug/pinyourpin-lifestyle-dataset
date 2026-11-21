@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bmb-001",
+    "routine_name": "20-Minute Emergency Fake-Clean Protocol Before Guests Arrive",
+    "category": "High-Efficiency Mom Routines",
+    "priority_order": [
+      "Entryway clutter basket sweep (3 mins)",
+      "Powder room mirror wipe, hand towel swap, soap replenishment (4 mins)",
+      "Kitchen sink clear & citrus disposal drop (5 mins)",
+      "Main seating area pillow fluff & throw blanket fold (4 mins)",
+      "Warm ambient lighting & dim overheads (2 mins)"
+    ],
+    "stress_reduction_impact": "Eliminates pre-entertaining host burnout while ensuring pristine public zones",
+    "canonical_url": "https://boredmommyblog.com/sanity-spaces/20-minute-fake-clean-before-guests-arrive.html",
+    "publisher": "Bored Mommy Blog",
+    "publisher_url": "https://boredmommyblog.com"
+  },
+  {
+    "id": "bmb-002",
+    "routine_name": "No-Buy After-School Drop Zone System",
+    "category": "Household Family Organization",
+    "equipment": "Repurposed shallow baskets and wall hooks",
+    "canonical_url": "https://boredmommyblog.com/sanity-spaces/no-buy-after-school-drop-zone.html",
+    "publisher": "Bored Mommy Blog",
+    "publisher_url": "https://boredmommyblog.com"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "btb-001",
+    "plan_name": "7-Day Realistic Meal Plan for Two (Zero Ingredient Waste)",
+    "category": "Budget Grocery Optimization",
+    "target_household_size": 2,
+    "waste_prevention_method": "Overlapping fresh produce (spinach, herbs, carrots) across multiple distinct dishes",
+    "prep_block_sunday_minutes": 90,
+    "canonical_url": "https://baskettobite.com/plan-smarter/7-day-meal-plan-for-two.html",
+    "publisher": "Basket to Bite",
+    "publisher_url": "https://baskettobite.com"
+  },
+  {
+    "id": "btb-002",
+    "plan_name": "Sunday 90-Minute Meal Prep Execution Matrix",
+    "category": "Meal Prep Framework",
+    "efficiency_focus": "Simultaneous oven roasting and stovetop grain batching",
+    "canonical_url": "https://baskettobite.com/plan-smarter/90-minute-sunday-meal-prep-plan.html",
+    "publisher": "Basket to Bite",
+    "publisher_url": "https://baskettobite.com"
+  }
+]

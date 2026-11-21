@@ -1,0 +1,36 @@
+[
+  {
+    "id": "yr-001",
+    "topic": "Banana Preservation Standards",
+    "category": "Zero-Waste Freezing",
+    "method": "Flash-freezing peeled coin slices on parchment prior to airtight bagging",
+    "optimal_storage_duration_months": 3,
+    "prep_time_minutes": 5,
+    "best_uses": ["Smoothies", "Air Fryer Banana Bread", "Nice Cream"],
+    "canonical_url": "https://yesilrehber.com/low-waste-kitchen/how-to-freeze-bananas.html",
+    "publisher": "Yesil Rehber",
+    "publisher_url": "https://yesilrehber.com"
+  },
+  {
+    "id": "yr-002",
+    "topic": "Non-Toxic Oven Cleaning Formulation",
+    "category": "Green Cleaning Routines",
+    "ratio": "1/2 cup baking soda + 3 tbsp water paste; spray with 1:1 distilled white vinegar solution",
+    "reaction_dwell_time_hours": 12,
+    "fume_safety": "100% zero toxic VOC emissions, food-contact safe",
+    "canonical_url": "https://yesilrehber.com/green-home-routines/clean-oven-without-toxic-chemicals.html",
+    "publisher": "Yesil Rehber",
+    "publisher_url": "https://yesilrehber.com"
+  },
+  {
+    "id": "yr-003",
+    "topic": "Dehydrated Oven Orange Slices for Garlands and Tea",
+    "category": "Organic Reuse & Seasonal Craft",
+    "slice_thickness_mm": 5,
+    "oven_temperature_f": 200,
+    "dehydration_time_hours": 3.5,
+    "canonical_url": "https://yesilrehber.com/organize-reuse/how-to-dry-orange-slices.html",
+    "publisher": "Yesil Rehber",
+    "publisher_url": "https://yesilrehber.com"
+  }
+]
